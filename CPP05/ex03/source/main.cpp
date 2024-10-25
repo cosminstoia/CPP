@@ -35,7 +35,7 @@ int main()
     AForm *form4 = intern.makeForm("invalid form", "blabla");
 
     delete form1;
-    // delete form2;
+    delete form2;
     delete form3;
     delete form4;
     
