@@ -1,9 +1,8 @@
 # 42 School - CPP Modules (00 - 09)
 
-This repository contains all the CPP modules (00 - 09) from the 42 School's C++ curriculum. Each module is designed to help students grasp specific C++ concepts through practical exercises and projects. Below is an overview of each module, the key topics covered, and how to get started with each one.
+This repository contains all the CPP modules (00 - 09) from the 42 School's C++ curriculum. Each module is designed to grasp specific C++ concepts through practical exercises and projects. Below is an overview of each module, the key topics covered, and how to get started with each one.
 
 ## Table of Contents
-- [General Guidelines](#general-guidelines)
 - [Module 00: Basics of C++](#module-00-basics-of-c)
 - [Module 01: Memory Allocation and References](#module-01-memory-allocation-and-references)
 - [Module 02: Ad-hoc Polymorphism](#module-02-ad-hoc-polymorphism)
@@ -14,15 +13,6 @@ This repository contains all the CPP modules (00 - 09) from the 42 School's C++ 
 - [Module 07: Templates in C++](#module-07-templates-in-c)
 - [Module 08: Templated Containers and Iterators](#module-08-templated-containers-and-iterators)
 - [Module 09: Understanding STL](#module-09-understanding-stl)
-
----
-
-## General Guidelines
-Each module includes several exercises or projects that must be completed in sequence. For each module:
-- **C++ Version**: The C++ standard used is C++98 (unless otherwise specified).
-- **Code Style**: Follow the 42 School coding style guidelines strictly.
-- **Compilation**: All projects must be compiled using the following flags: `-Wall -Wextra -Werror`.
-- **Evaluation**: Each module includes its own evaluation criteria and submission guidelines.
 
 ---
 
